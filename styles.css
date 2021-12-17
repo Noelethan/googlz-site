@@ -1,0 +1,132 @@
+    html {
+    height: 100%;
+    }
+    body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    }
+
+    .maitre{
+    font-size: 16px!important;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content:space-between ; 
+      }
+
+    #icon{
+    height: 30px;
+    width: 30px;
+    }
+
+    #profile{
+    height: 30px;
+    width: 30px;
+    border-radius: 100%;
+    }
+
+    .div1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    }
+
+    .div1 #icon,.div1 #profile,.div1 a{
+    margin: 10px;
+    }
+
+    a{
+        text-decoration: none;
+
+    }
+
+    .div1 a{
+    color: rgb(0, 0, 0);
+    }
+
+    .div2 {
+    display: flex;
+    justify-content: center;
+    }
+
+    .div2 img{
+    height: 142px;
+    width: 430px;
+    }
+
+
+    .div3{
+    display: flex;
+    justify-content: center;
+    }
+    .div3 input{
+    height: 30px;
+    width: 487px;
+    border-radius: 50px;
+    padding: 16px;
+    }
+
+
+    .div4 button{
+    margin: 10px;
+    }
+    .div4 {
+    display: flex;
+    justify-content: center;
+    }
+
+    .div5 {
+        background-color: rgb(230, 230, 230);  
+    height: 50px;  
+    display: flex;
+    align-items: center;
+     }
+    .div5 p{
+    }
+    .div5 p{
+        margin: 0 0 0 40px ;
+        color: rgb(100, 100, 100);
+    }
+    
+   
+
+
+
+
+    .div6 a{
+    color: rgb(100, 100, 100);
+    text-decoration: none;
+    margin: 0 12px 0 12px;
+    }
+    .div6 {
+    display: flex;
+    align-content: flex-end; 
+    }
+    .div6 {
+        display: flex;
+        justify-content: space-around;
+    }
+    .div6 {
+    display: flex;
+    justify-content: center;
+    }
+    .div7 a{
+    }
+    .div7 {
+    display: flex;
+    justify-content: center;
+    }
+    .div8 a{
+        margin: 0 12px 0 12px;
+    }
+    .toribach {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(230, 230, 230);
+    height: 50px;  
+}
+
+
